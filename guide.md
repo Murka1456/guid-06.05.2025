@@ -9,5 +9,12 @@
 - hvordan formidlebudskapet: separerte filer/ internal coding ,
   kode oppsett med semantisk HTML
 - bruke komentarer
+<!-- Head er informasjon til nettleser/ -->
+<!-- Body er innhold til nettlesere/ -->
+<!--header innhold til nattsiden / -->
+<!--Main innhold er hoved innformasjon delt i seksjoner / -->
+<!--Footer har navigasjon,vilkår / -->
+ - Artikle kan inneholde mye tekst
+  - Aside  innhold - tillegg informasjon til hoved tema,( reklame, " før du forlater...")
 
 ##
